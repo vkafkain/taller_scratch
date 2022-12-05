@@ -6,15 +6,9 @@ Scratch és la comunitat de codificació més gran del món per a nengs i un lle
 Scratch està dissenyat, desenvolupat i moderat per la [Scratch Foundation](https://www.scratchfoundation.org/), una organització sense ànim de lucre.
 Scratch promou el pensament computacional i les habilitats de resolució de problemes; l'ensenyament i l'aprenentatge creatius; l'autoexpressió i la col·laboració; i l'equitat en la informàtica.
 
-## Per a qui està dirigit?
+## Qui pot fer servir Scratch?
 
 Scratch està dissenyat especialment per als 8 a 16 anys, però és utilitzat per persones de totes les edats. Milions de persones estan creant projectes Scratch en una àmplia varietat d'escenaris, incloent cases, escoles, museus, biblioteques i centres comunitaris.
-
-
-## Contingut del taller
-
-
-## Primers pasos
 
 
 ## Objectius
@@ -33,5 +27,22 @@ El ús de Scratch propicia el desenvolupament del pensament lògic a través de 
 
     https://scratch.mit.edu/educators
 
+    https://scratch.mit.edu/ideas
+
+    https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+
+    https://scratch.mit.edu/starter-projects
+
+    https://scratch.mit.edu/projects/249143200/editor?tutorial=animate-an-adventure-game
+
+    https://csfirst.withgoogle.com/c/cs-first/en/an-unusual-discovery/un-descubrimiento-inusual/un-descubrimiento-inusual.html
+
+    https://programamos.es/
+
+    https://sip.scratch.mit.edu/
 
 
+## Contingut del taller
+
+
+## Primers pasos
